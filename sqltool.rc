@@ -1,0 +1,4 @@
+urlid db0
+url jdbc:hsqldb:hsql://localhost/xdb
+username SA
+
